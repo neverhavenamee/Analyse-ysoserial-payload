@@ -95,7 +95,7 @@ final Transformer[] transformers = new Transformer[] {
 
 ![image.png](image%2013.png)
 
-- Đoạn này hoàn toàn giống với đoạn tôi đã phân tích trong CC5: ([Tham khảo](https://www.notion.so/CommonsCollections5-CC5-24c1eb3c27c58048a6d6f904eb71353a?pvs=21))
+- Đoạn này hoàn toàn giống với đoạn tôi đã phân tích trong CC5 - tham khảo bên trên
     
     ```php
     ChainedTransformer.transform()
