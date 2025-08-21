@@ -34,7 +34,7 @@ ObjectInputStream.readObject()
     
 - Chương trình bắt đầu thực thi hàm readObject() đồng thời một hàm readObject0() cũng được gọi theo, ta thấy stacktraces trỏ tới vị trí này
 
-![image.png](image%202.png)
+![image.png](image.png)
 
 - Ở đây ***TC_OBJECT*** được khai báo cùng với các biến khác.
 
